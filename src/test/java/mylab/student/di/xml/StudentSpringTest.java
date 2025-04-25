@@ -33,7 +33,6 @@ public class StudentSpringTest {
 			System.out.println(student);
 		}
 	}
-	
 		
 	@Test @Disabled
 	void testCourse() {
