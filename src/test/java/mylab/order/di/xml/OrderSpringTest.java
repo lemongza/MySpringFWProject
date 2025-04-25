@@ -1,6 +1,5 @@
 package mylab.order.di.xml;
 
-import mylab.student.di.xml.Student;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.springframework.beans.factory.annotation.Autowired;
